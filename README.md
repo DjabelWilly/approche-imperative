@@ -1,1 +1,1 @@
-Java
+Java - approche impérative
