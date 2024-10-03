@@ -1,0 +1,12 @@
+package fr.operateurs;
+
+public class DeclarationOperateur {
+    public static void main(String[] args) {
+        int a = 10;
+        int b = 20;
+        boolean testEt = a > 0 && b < 10;
+        boolean testOu = a > 0 || b < 10;
+        System.out.println(testEt);
+        System.out.println(testOu);
+    }
+}
